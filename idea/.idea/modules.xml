@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FakeJMS/FakeJMS.iml" filepath="$PROJECT_DIR$/FakeJMS/FakeJMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fake-jms.iml" filepath="$PROJECT_DIR$/fake-jms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reference-service.iml" filepath="$PROJECT_DIR$/reference-service.iml" />
+    </modules>
+  </component>
+</project>
